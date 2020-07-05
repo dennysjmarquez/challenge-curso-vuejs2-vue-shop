@@ -2,6 +2,8 @@
 
 ## Demo
 
+https://dennysjmarquez.github.io/challenge-curso-vuejs2-vue-shop/demo/
+
 ## Project setup
 ```
 yarn install
